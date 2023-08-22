@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruben Coda</h1>
 <h3 align="center">I’m a Junior Web Developer who is very enthusiastic to learn new things about programming and technology. I’m a person who has a high curiosity, commitment, and dedication. Experienced working individually and in teamwork situations. Very enthusiastic about the challenges of programming, which makes me grow, innovate, and generate solutions through software development.</h3>
 
-- 🌱 I’m currently learning **Laravel, Next JS**
+- 🌱 I’m currently learning **Laravel, Typescript**
 
 - 📫 How to reach me **rubencoda2310@gmail.com**
 
